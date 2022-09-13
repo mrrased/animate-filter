@@ -1,0 +1,66 @@
+[
+    {
+       "id":1,
+       "date":"09 Jun 2022 - 16 Jun 2022",
+       "title":"Dubai (DXB)",
+       "country":"New York (USA)",
+       "classes":"Economy from",
+       "price":195
+    },
+    {
+       "id":2,
+       "date":"09 Jun 2022 - 16 Jun 2022",
+       "title":"Switzerland (SWL)",
+       "country":"New York (USA)",
+       "classes":"Business Class",
+       "price":800
+    },
+    {
+       "id":3,
+       "date":"09 Jun 2022 - 16 Jun 2022",
+       "title":"Denmark (DEK)",
+       "country":"New York (USA)",
+       "classes":"Economy from",
+       "price":260
+    },
+    {
+       "id":4,
+       "date":"09 Jun 2022 - 16 Jun 2022",
+       "title":"Jakarta (DXB)",
+       "country":"New York (USA)",
+       "classes":"Business Class",
+       "price":240
+    },
+    {
+       "id":5,
+       "date":"09 Jun 2022 - 16 Jun 2022",
+       "title":"Dubai (DXB)",
+       "country":"New York (USA)",
+       "classes":"Economy from",
+       "price":195
+    },
+    {
+       "id":6,
+       "date":"09 Jun 2022 - 16 Jun 2022",
+       "title":"Dubai (DXB)",
+       "country":"New York (USA)",
+       "classes":"Economy from",
+       "price":195
+    },
+    {
+       "id":7,
+       "date":"09 Jun 2022 - 16 Jun 2022",
+       "title":"Switzerland (SWL)",
+       "country":"New York (USA)",
+       "classes":"Economy from",
+       "price":195
+    },
+    {
+       "id":8,
+       "date":"09 Jun 2022 - 16 Jun 2022",
+       "title":"Turkish (SWL)",
+       "country":"New York (USA)",
+       "classes":"Business Class",
+       "price":740
+    }
+ ]
