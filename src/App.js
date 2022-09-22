@@ -1,4 +1,5 @@
 import './App.css';
+import Collapse from './Component/Collapse';
 import CountUpSet from './Component/CountUpSet';
 import Filter from './Component/Filter';
 
@@ -7,6 +8,7 @@ function App() {
     <div>
       <Filter />
       <CountUpSet />
+      <Collapse />
     </div>
   );
 }
